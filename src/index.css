@@ -1,0 +1,45 @@
+.escudo {
+  width: 30px;
+}
+
+
+.v {
+  color: green;
+}
+
+.e {
+  color: gray;
+}
+
+.d {
+  color: red;
+}
+
+[class = '1'] {
+  color : blue;
+}
+
+[class = '2'] {
+  color : blue;
+}
+
+[class = '3'] {
+  color : blue;
+}
+
+[class = '4'] {
+  color : blue;
+}
+
+[class = '17'] {
+  color : red;
+}
+[class = '18'] {
+  color : red;
+}
+[class = '19'] {
+  color : red;
+}
+[class = '20'] {
+  color : red;
+}
